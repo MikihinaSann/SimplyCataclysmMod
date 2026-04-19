@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew compileJava)",
+      "Bash(JAVA_HOME=\"C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot\" ./gradlew compileJava)",
+      "Read(//c/Program Files/Eclipse Adoptium\" 2>/dev/**)",
+      "Bash(where java *)",
+      "Read(//c/Program Files/Java//**)",
+      "Read(//c/Users/nonza/.gradle/jdks//**)",
+      "Bash(JAVA_HOME=\"/c/Program Files/Java/jdk-21\" ./gradlew compileJava)"
+    ]
+  }
+}
